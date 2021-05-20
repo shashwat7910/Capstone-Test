@@ -1,0 +1,16 @@
+C:\Users\shassingh\source\repos\CapstoneTesting\CapstoneTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\shassingh\source\repos\CapstoneTesting\CapstoneTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\shassingh\source\repos\CapstoneTesting\CapstoneTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\shassingh\source\repos\CapstoneTesting\CapstoneTesting\bin\Debug\CapstoneTesting.dll
+C:\Users\shassingh\source\repos\CapstoneTesting\CapstoneTesting\bin\Debug\CapstoneTesting.pdb
+C:\Users\shassingh\source\repos\CapstoneTesting\CapstoneTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\shassingh\source\repos\CapstoneTesting\CapstoneTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\shassingh\source\repos\CapstoneTesting\CapstoneTesting\bin\Debug\WebDriver.dll
+C:\Users\shassingh\source\repos\CapstoneTesting\CapstoneTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\shassingh\source\repos\CapstoneTesting\CapstoneTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\shassingh\source\repos\CapstoneTesting\CapstoneTesting\bin\Debug\WebDriver.xml
+C:\Users\shassingh\source\repos\CapstoneTesting\CapstoneTesting\obj\Debug\CapstoneTesting.csprojAssemblyReference.cache
+C:\Users\shassingh\source\repos\CapstoneTesting\CapstoneTesting\obj\Debug\CapstoneTesting.csproj.CoreCompileInputs.cache
+C:\Users\shassingh\source\repos\CapstoneTesting\CapstoneTesting\obj\Debug\CapstoneTesting.csproj.CopyComplete
+C:\Users\shassingh\source\repos\CapstoneTesting\CapstoneTesting\obj\Debug\CapstoneTesting.dll
+C:\Users\shassingh\source\repos\CapstoneTesting\CapstoneTesting\obj\Debug\CapstoneTesting.pdb
